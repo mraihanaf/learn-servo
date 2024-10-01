@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "Building..."
-arduino-cli compile -b arduino:avr:uno .
+sudo arduino-cli compile -b arduino:avr:uno .
